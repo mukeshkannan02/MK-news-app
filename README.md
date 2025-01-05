@@ -33,7 +33,7 @@ Before running this project, ensure you have the following installed:
 ▶️ Running the Project
 
 Start the development server:
-npm run dev  or  yarn dev  
+npm run dev  /  yarn dev  
 
 Open your browser and navigate to:
 http://localhost:3000 
