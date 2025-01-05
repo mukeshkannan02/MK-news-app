@@ -9,6 +9,7 @@ A simple and efficient web application built with **React** and **Vite** that fe
 
 ## Screenshots 📸
 ![Preview](/src/assets/SCREENSHOT.jpeg)
+
 ![Demo video](/src/assets/DEMO_GIF.gif)
 
 
