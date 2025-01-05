@@ -8,9 +8,8 @@ A simple and efficient web application built with **React** and **Vite** that fe
 - Built using modern web technologies: React and Vite.  
 
 ## Screenshots 📸
-![Preview](/src/assets/SCREENSHOT.jpeg)
-
 ![Demo video](/src/assets/DEMO_GIF.gif)
+![Preview](/src/assets/SCREENSHOT.jpeg)
 
 
 ## 🛠️ Tech Stack  
