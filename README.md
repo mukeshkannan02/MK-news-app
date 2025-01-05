@@ -1,33 +1,39 @@
-# React + Vite
+# News API  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and efficient web application built with **React** and **Vite** that fetches and displays the latest news from a third-party news API. 
 
-Currently, two official plugins are available:
+## 🚀 Features  
+- Fetches the latest news every 15–30 minutes.  
+- User-friendly and responsive UI.  
+- Built using modern web technologies: React and Vite.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots 📸
+![Preview](/images/search-screenshot.PNG)
+![Demo video](/images/demo.gif)
 
-# News-App  
 
-## Overview  
-**News-App** is a React application powered by Vite that displays real-time news updates across categories like General, Entertainment, Science, Business, Sports, Health, and Technology. The app uses the [News API](https://newsapi.org/) to fetch live news and automatically refreshes content every 15-30 minutes.  
+## 🛠️ Tech Stack  
+- **Frontend**: React + Vite , Bootstrap
+- **API Integration**: [NEWS-APIO](https://newsapi.org/).  
 
-This project is designed to run locally on `localhost` due to API restrictions that prevent public deployment without a paid subscription.  
+## 🔒 Limitations  
+- **Localhost Only**: The project runs exclusively on `localhost` because the news API requires a subscription and does not allow public hosting.  
 
-## Features  
-- **Live News Updates**: Fetches the latest news in real-time.  
-- **Category-based Browsing**: Users can view news by category.  
-- **Breaking News Section**: Highlights trending and important news.  
-- **Auto-Refresh**: News updates automatically every 15-30 minutes.  
-- **Optimized Performance**: Built using Vite for fast builds and development.  
+## 🔧 Prerequisites  
+Before running this project, ensure you have the following installed:  
+- Node.js (v16 or above)  
+- npm or yarn package manager  
 
-## Prerequisites  
-Ensure you have the following installed on your system:  
-- [Node.js](https://nodejs.org/)  
-- npm or yarn  
-- A valid **News API Key** from [News API](https://newsapi.org/).  
+## 📦 Installation  
 
-## Installation  
-1. **Clone the repository**:  
+1. Clone the repository:  
    ```bash  
    git clone https://github.com/mukeshkannan02/MK-news-app.git
+     
+▶️ Running the Project
+
+Start the development server:
+npm run dev  or  yarn dev  
+
+Open your browser and navigate to:
+http://localhost:3000 
